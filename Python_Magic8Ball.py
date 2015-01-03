@@ -1,7 +1,8 @@
 import random 
 
 
-answers = ['Yes','No','My Sources Say No','For Sure']
+answers = ['Yes','No','My Sources Say No','For Sure',
+           'Reply Hazy; Try Again']
 
 print('''
 Welcome To The Magic 8 Ball!
